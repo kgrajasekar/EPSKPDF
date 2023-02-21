@@ -23,6 +23,8 @@ Find Using Wildcards
 Find Using Regex
 Find Using Formats (fontsize, fontname, textcolor, highlight, bold, italic, .., etc)
 
+#screenshot
+#image Screenshot/Preview%20v0.5%202023-02-21%20225143.png
 
 #Version 1.1
 Export ePub 1.1
