@@ -10,84 +10,59 @@ It's a PDF Reader Application Minimal Feaure like formatting it won't save it in
 #Screenshots:
 ![alt tag](https://kgrajasekar.github.io/PDF2EPUB/Screenshot/Preview%20v0.5%202023-02-21%20225143.png)
 =
-Page label Update
-=
-Page Cropping
-=
-Page Identify
-=
-unWanted Ignore (Header, Footer, Page number, Vectors, etc.)
-=
-Image Import
-=
-Image Mapping
-=
-FontName Substitute
-=
-Glyph Mapping
-=
-Identify the Text/Image Layout Semi Auto
-=
-Bookmark
-=
-Weblink
-=
-Cross Link
-=
-Find Text
-=
-Find Using Wildcards
-=
-Find Using Regex
-=
-Find Using Formats (fontsize, fontname, textcolor, highlight, bold, italic, .., etc)
-=
+* Page label Update
+* Page Cropping
+* Page Identify
+* unWanted Ignore * (Header, Footer, Page number, Vectors, etc.)
+* Image Import
+* Image Mapping
+* FontName Substitute
+* Glyph Mapping
+* Identify the Text/Image Layout Semi Auto
+* Bookmark
+* Weblink
+* Cross Link
+* Find Text
+* Find Using Wildcards
+* Find Using Regex
+* Find Using Formats (fontsize, fontname, textcolor, highlight, bold, italic, .., etc)
+
 
 Version 1.1
 =
-Export ePub 1.1
+Export ePub 2.0.1
 =
-Zoning Sequence Order
-=
-File Grouping
-=
-Section Grouping
-=
-Element Indetify
-=
-CSS Import
-=
-TOC Creation
-=
-NCX Creation
-=
-Page Map
-=
-OPF Creation
-=
-Paackage Creation
-=
+* Zoning Sequence Order
+* File Grouping
+* Section Grouping
+* Element Indetify
+* CSS Import
+* TOC Creation
+* NCX Creation
+* Page Map
+* OPF Creation
+* Paackage Creation
+
+
 Version 1.X
 =
-Export ePub version 2
+Export ePub version 3.0.1
 =
-Table
-=
-list
-=
-semantic elements
-=
+* Table
+* list
+* semantic elements
+
+
 Version X.X
 =
-Export ePub version 3
+Export ePub version 3.2
 =
-css edit
-=
-Math
-=
+* css edit
+* Math
+
+
 Version X.X
 =
-RTF
-=
-Docx
-=
+* RTF
+* Docx
+
