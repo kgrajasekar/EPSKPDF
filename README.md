@@ -26,7 +26,7 @@ Find Using Wildcards
 Find Using Regex
 Find Using Formats (fontsize, fontname, textcolor, highlight, bold, italic, .., etc)
 =
-=
+
 #Version 1.1
 Export ePub 1.1
 =
