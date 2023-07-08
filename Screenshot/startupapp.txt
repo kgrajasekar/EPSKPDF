@@ -1,2 +1,4 @@
-EPSKPDF##1.0.2.0#PDFEditor#pdf\EPSK_1.0.2.0.exe
-EPSKPDF#New Version#1.0.2.0#PDFEditor#pdf\EPSK.exe
+EPSKPDF#New Version#1.0.2.0#PDFEditor#Y#pdf\EPSK.exe
+EPSKPDF#Cache#Cleanup#PDFEditor#Y#pdf\EPSK.exe --pdfCacheCleanup
+EPSKPDF#Alpha#1.0.3.0#PDFEditor#N#pdf\EPSK_1.0.3.0.exe
+EPSKPDF#EPUBView#1.0.0.0#PDFEditor#N#epub\EPSKePUB.exe
