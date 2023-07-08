@@ -1,1 +1,1 @@
-pdf|zip|https://epskapps.bsite.net/app/epskapp.zip
+pdf|zip||https://epskapps.bsite.net/app/epskapp.zip
