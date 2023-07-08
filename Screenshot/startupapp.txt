@@ -1,6 +1,6 @@
-PDFEditor#New Version#1.0.2.0#PDFEditor#Y#pdf\EPSK.exe#https://epskapps.bsite.net/app/epskapp.zip
-PDF#Cache#Cleanup#PDFEditor#Y#pdf\EPSK.exe --pdfCacheCleanup#https://epskapps.bsite.net/app/epskapp.zip
-PDFEditor#Alpha#1.0.3.0#InProgress#N#pdf\EPSK_1.0.3.0.exe#https://epskapps.bsite.net/app/epskapp.zip
-ePub#Alpha#1.0.0.0#InProgress#N#epub\EPSKePUB.exe#https://epskapps.bsite.net/app/epskepub.zip
-Doc#Alpha#1.0.0.0#InProgress#N#doc\EPSKDoc.exe#https://epskapps.bsite.net/app/epskdoc.zip
-Compare#Beta#1.0.0.0#InProgress#N#compare\EPSKCompare.exe#https://epskapps.bsite.net/app/epskcompare.zip
+PDFEditor#New Version#1.0.2.0#PDFEditor#Y#pdf\EPSK.exe#zip#https://epskapps.bsite.net/app/epskapp.zip
+PDF#Cache#Cleanup#PDFEditor#Y#pdf\EPSK.exe --pdfCacheCleanup#zip#https://epskapps.bsite.net/app/epskapp.zip
+PDFEditor#Alpha#1.0.3.0#InProgress#N#pdf\EPSK_1.0.3.0.exe#zip#https://epskapps.bsite.net/app/epskapp.zip
+ePub#Alpha#1.0.0.0#InProgress#N#epub\EPSKePUB.exe#zip#https://epskapps.bsite.net/app/epskepub.zip
+Doc#Alpha#1.0.0.0#InProgress#N#doc\EPSKDoc.exe#zip#https://epskapps.bsite.net/app/epskdoc.zip
+Compare#Beta#1.0.0.0#InProgress#N#compare\EPSKCompare.exe#zip#https://epskapps.bsite.net/app/epskcompare.zip
