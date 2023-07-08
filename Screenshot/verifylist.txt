@@ -1,1 +1,1 @@
-pdf\epskapp_1.0.0.0|00000000|file|https://epskapps.bsite.net/app/epskapp_.exe
+pdf\epskapp_1.0.0.0.exe|00000000|file|https://epskapps.bsite.net/app/epskapp.exe
