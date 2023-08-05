@@ -1,1 +1,3 @@
-pdf\epskpdf.exe|v1-20230805173000|00000000|file|https://epskapps.bsite.net/app/epskpdf.exe
+application\pdf\epskpdf.exe|v1-20230805173000|00000000|file|https://epskapps.bsite.net/app/epskpdf.zip
+pdf\config.ini|v2-20230805173000|00000000|file|https://epskapps.bsite.net/app/epskpdfconfig.zip
+
