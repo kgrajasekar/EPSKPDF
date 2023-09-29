@@ -1,2 +1,2 @@
-open|epskappupdate|u1-20230805173007||https://epskapps.bsite.net/app/epskappupdate.zip
-copy|pdf\epskpdf|u2-20230805173007||https://epskapps.bsite.net/app/epskpdf_1.0.4.0.zip
+open|epskappupdate|u1-20230805173008||https://epskapps.bsite.net/app/epskappupdate.zip
+copy|pdf\epskpdf|u2-20230805173008||https://epskapps.bsite.net/app/epskpdf_1.0.5.0.zip
