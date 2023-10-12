@@ -1,4 +1,4 @@
-PDFEditor#New Version#1.0.8.0#PDFEditor#Y#pdf\EPSK.exe##s1-20230805173008#zip#https://epskapps.bsite.net/app/EPSKAPP_1.0.3.0.zip
+PDFEditor#New Version#1.0.9.0#PDFEditor#Y#pdf\EPSK.exe##s1-20230805173009#zip#https://epskapps.bsite.net/app/EPSKAPP_1.0.3.0.zip
 PDF#Cache#Cleanup#PDFEditor#Y#pdf\EPSK.exe#--pdfCacheCleanup#s2-20230805173008#zip#https://epskapps.bsite.net/app/EPSKAPP_1.0.3.0.zip
 PDFEditor#Alpha#1.0.9.0#InProgress#N#pdf\EPSK_1.0.9.0.exe##s3-20230805173008#zip#https://epskapps.bsite.net/app/EPSKAPP_1.0.4.0.zip
 ePub#Alpha#1.0.0.0#InProgress#N#epub\EPSKePUB.exe##s4-20230805173008#zip#https://epskapps.bsite.net/app/epskepub.zip
